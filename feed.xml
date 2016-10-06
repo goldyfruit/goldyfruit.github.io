@@ -3,10 +3,10 @@
   <channel>
     <title>if [ &quot;$UNIX&quot; == &quot;true&quot; ]; then echo &quot;Youpi \o/&quot;; fi</title>
     <description>An Open-Source Bootstrap 4 Jekyll Theme by Scotch</description>
-    <link>http://scotch-io.github.io/</link>
-    <atom:link href="http://scotch-io.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Oct 2016 13:49:38 -0400</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2016 13:49:38 -0400</lastBuildDate>
+    <link>https//goldyfruit.github.io/</link>
+    <atom:link href="https//goldyfruit.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 Oct 2016 13:52:19 -0400</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 13:52:19 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -19,8 +19,8 @@
 
 </description>
         <pubDate>Mon, 31 Aug 2015 09:26:34 -0400</pubDate>
-        <link>http://scotch-io.github.io/my-first-video-post.html</link>
-        <guid isPermaLink="true">http://scotch-io.github.io/my-first-video-post.html</guid>
+        <link>https//goldyfruit.github.io/my-first-video-post.html</link>
+        <guid isPermaLink="true">https//goldyfruit.github.io/my-first-video-post.html</guid>
         
         <category>mars</category>
         
@@ -43,8 +43,8 @@
 
 </description>
         <pubDate>Mon, 31 Aug 2015 09:26:34 -0400</pubDate>
-        <link>http://scotch-io.github.io/example-post.html</link>
-        <guid isPermaLink="true">http://scotch-io.github.io/example-post.html</guid>
+        <link>https//goldyfruit.github.io/example-post.html</link>
+        <guid isPermaLink="true">https//goldyfruit.github.io/example-post.html</guid>
         
         <category>cats</category>
         
@@ -69,8 +69,8 @@
 
 </description>
         <pubDate>Sat, 15 Aug 2015 09:26:34 -0400</pubDate>
-        <link>http://scotch-io.github.io/my-first-normal-post.html</link>
-        <guid isPermaLink="true">http://scotch-io.github.io/my-first-normal-post.html</guid>
+        <link>https//goldyfruit.github.io/my-first-normal-post.html</link>
+        <guid isPermaLink="true">https//goldyfruit.github.io/my-first-normal-post.html</guid>
         
         <category>html</category>
         
